@@ -137,7 +137,3 @@ Launch the software, and a hamburger begins to spin to the sound of delightful m
 
 ### Contact
 If you encounter any problems or have any suggestions while using the program, please submit feedback through [Issues](https://github.com/stand114514/SpinFor1Hour/issues).
-
----
-
-通过在链接中添加 `#中文` 或 `#english`，用户可以直接跳转到对应的中文或英文部分。希望这个改进能满足您的需求！如果您还有其他问题或需要进一步调整，请随时告诉我。
