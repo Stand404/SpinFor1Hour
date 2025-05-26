@@ -3,6 +3,9 @@ using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
 using Spin_for_1_hour.Properties;
+using System.Runtime.InteropServices;
+using Timer = System.Windows.Forms.Timer;
+using System.Diagnostics;
 
 namespace Spin_for_1_hour
 {
@@ -29,33 +32,12 @@ namespace Spin_for_1_hour
             pictureBox1.MouseUp += Panel_MouseUp;
             pictureBox1.MouseMove += Panel_MouseMove;
             pictureBox1.ContextMenuStrip = contextMenuStrip1;
+            foreach (ToolStripMenuItem item in contextMenuStrip1.Items) item.Click += MenuItem_Click;
 
-            foreach (ToolStripMenuItem item in contextMenuStrip1.Items)
-            {
-                item.Click += MenuItem_Click;
-            }
-
-            using (Stream stream = new MemoryStream(Resources.Funkytown))
-            {
-                if (stream != null)
-                {
-                    // 生成一个临时文件路径
-                    string tempFilePath = Path.GetTempFileName();
-                    // 获取临时文件的目录路径
-                    string tempDir = Path.GetDirectoryName(tempFilePath);
-                    // 创建一个新的文件路径，带有 .mp3 扩展名
-                    string mp3FilePath = Path.Combine(tempDir, "Spin_for_1_hour.mp3");
-
-                    // 将流保存到新的文件路径
-                    using (FileStream fs = new FileStream(mp3FilePath, FileMode.Create, FileAccess.Write))
-                    {
-                        stream.CopyTo(fs);
-                    }
-
-                    // 使用 Windows Media Player 播放临时文件
-                    MciPlayer.mciPlay(mp3FilePath);
-                }
-            }
+            // 多开但是不锁音频
+            string processName = Process.GetCurrentProcess().ProcessName;
+            Process[] processes = Process.GetProcessesByName(processName);
+            if (processes.Length == 1) LoadAudio();
 
             // 初始化剩余时间为 1 小时
             remainingTime = new TimeSpan(1, 0, 0);
@@ -72,6 +54,21 @@ namespace Spin_for_1_hour
         {
             // 生成一个临时文件路径
             string tempFilePath = Path.Combine(Path.GetTempPath(), "Spin_for_1_hour.mp3");
+
+            using (Stream stream = new MemoryStream(Resources.Funkytown))
+            {
+                if (stream != null)
+                {
+                    // 将流保存到新的文件路径
+                    using (FileStream fs = new FileStream(tempFilePath, FileMode.Create, FileAccess.Write))
+                    {
+                        stream.CopyTo(fs);
+                    }
+
+                    // 使用 Windows Media Player 播放临时文件
+                    MciPlayer.mciPlay(mp3FilePath);
+                }
+            }
 
             // 检查文件是否存在
             if (File.Exists(tempFilePath)) MciPlayer.mciPlay(tempFilePath);
