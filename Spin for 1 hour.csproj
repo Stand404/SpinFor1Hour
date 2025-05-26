@@ -122,6 +122,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README_EN.md" />
     <None Include="resources\Funkytown.mp3" />
   </ItemGroup>
   <ItemGroup>
