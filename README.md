@@ -1,10 +1,9 @@
 <div align="center">
   <h1>旋转1小时.exe</h1>
   <img src="resources/汉堡.gif" alt="汉堡动图" width="200">
+  <br>
   <a href="#中文">中文</a> | <a href="#english">English</a>
 </div>
-
----
 
 ## 中文
 
