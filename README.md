@@ -1,16 +1,19 @@
 <div align="center">
   <h1>旋转1小时.exe</h1>
   <img src="resources/汉堡.gif" alt="汉堡动图" width="200">
-  <br>
-  <a href="README.md">中文</a> | <a href="README_EN.md">English</a>
+  <a href="#中文">中文</a> | <a href="#english">English</a>
 </div>
 
 ---
 
 ## 中文
 
-### 项目简介
-《旋转1小时》是一款简单的桌面应用程序，旨在帮助用户记录和管理他们的运动数据。通过这个程序，用户可以轻松跟踪他们的运动时间、距离和消耗的卡路里，从而更好地管理自己的健康和健身计划。
+<a id="中文"></a>
+打开软件，伴随着美妙的音乐，一个汉堡开始旋转，同时下方显示倒计时1小时。  
+- **无任务栏和窗口**：程序运行时不会显示任务栏图标或窗口边框，完全沉浸式体验。  
+- **倒计时结束**：倒计时归零时，程序将自动退出。  
+- **右键菜单操作**：可以通过右键菜单关闭程序，或者通过任务管理器强制结束进程。  
+- **切换食物**：右键点击旋转的食物，可以切换到其他各种美食，享受这旋转的一小时吧！
 
 ### 如何自行编译
 
@@ -34,7 +37,7 @@
    - 在“系统变量”部分，找到并选择“Path”变量，然后点击“编辑”。
    - 点击“新建”，添加 SDK 的 `bin/版本号/` 目录路径。例如：
      ```
-     C:\Program Files (x86)\Windows Kits\10\bin\x64
+     D:\Windows Kits\10\bin\10.0.26100.0\x64
      ```
    - 点击“确定”保存更改。
 
@@ -72,9 +75,12 @@
 ---
 
 ## English
-
-### Project Introduction
-"Spin for 1 Hour" is a simple desktop application designed to help users record and manage their exercise data. Through this program, users can easily track their exercise time, distance, and calories burned, thereby better managing their health and fitness plans.
+<a id="english"></a>
+Launch the software, and a hamburger begins to spin to the sound of delightful music, with a 1-hour countdown timer displayed below.  
+- **No Taskbar or Window**：The program runs without a taskbar icon or window frame for a fully immersive experience.  
+- **Countdown Completion**：The program will automatically exit when the countdown reaches zero.  
+- **Right-Click Menu**：You can close the program via the right-click menu, or terminate it through the Task Manager.  
+- **Switch Foods**：Right-click on the spinning food to switch to various other dishes. Enjoy your spinning hour!
 
 ### How to Compile
 
@@ -98,7 +104,7 @@
    - In the "System variables" section, find and select the "Path" variable, then click "Edit".
    - Click "New" and add the path to the SDK's `bin/版本号/` directory. For example:
      ```
-     C:\Program Files (x86)\Windows Kits\10\bin\x64
+     D:\Windows Kits\10\bin\10.0.26100.0\x64
      ```
    - Click "OK" to save the changes.
 
@@ -135,4 +141,4 @@ If you encounter any problems or have any suggestions while using the program, p
 
 ---
 
-希望这份 `README.md` 文件能满足您的需求！如果您有任何进一步的要求或需要调整的地方，请随时告诉我。
+通过在链接中添加 `#中文` 或 `#english`，用户可以直接跳转到对应的中文或英文部分。希望这个改进能满足您的需求！如果您还有其他问题或需要进一步调整，请随时告诉我。
