@@ -1,85 +1,85 @@
 <div align="center">
-  <h1>Ğı×ª1Ğ¡Ê±.exe</h1>
-  <img src="resources/ºº±¤.gif" alt="ºº±¤¶¯Í¼" width="200">
+  <h1>æ—‹è½¬1å°æ—¶.exe</h1>
+  <img src="resources/æ±‰å ¡.gif" alt="æ±‰å ¡åŠ¨å›¾" width="200">
   <br>
-  <a href="#ÖĞÎÄ">ÖĞÎÄ</a> | <a href="#english">English</a>
+  <a href="#ä¸­æ–‡">ä¸­æ–‡</a> | <a href="#english">English</a>
 </div>
 
-## ÖĞÎÄ
+## ä¸­æ–‡
 
-<a id="ÖĞÎÄ"></a>
-´ò¿ªÈí¼ş£¬°éËæ×ÅÃÀÃîµÄÒôÀÖ£¬Ò»¸öºº±¤¿ªÊ¼Ğı×ª£¬Í¬Ê±ÏÂ·½ÏÔÊ¾µ¹¼ÆÊ±1Ğ¡Ê±¡£  
-- **ÎŞÈÎÎñÀ¸ºÍ´°¿Ú**£º³ÌĞòÔËĞĞÊ±²»»áÏÔÊ¾ÈÎÎñÀ¸Í¼±ê»ò´°¿Ú±ß¿ò£¬ÍêÈ«³Á½şÊ½ÌåÑé¡£  
-- **µ¹¼ÆÊ±½áÊø**£ºµ¹¼ÆÊ±¹éÁãÊ±£¬³ÌĞò½«×Ô¶¯ÍË³ö¡£  
-- **ÓÒ¼ü²Ëµ¥²Ù×÷**£º¿ÉÒÔÍ¨¹ıÓÒ¼ü²Ëµ¥¹Ø±Õ³ÌĞò£¬»òÕßÍ¨¹ıÈÎÎñ¹ÜÀíÆ÷Ç¿ÖÆ½áÊø½ø³Ì¡£  
-- **ÇĞ»»Ê³Îï**£ºÓÒ¼üµã»÷Ğı×ªµÄÊ³Îï£¬¿ÉÒÔÇĞ»»µ½ÆäËû¸÷ÖÖÃÀÊ³£¬ÏíÊÜÕâĞı×ªµÄÒ»Ğ¡Ê±°É£¡
+<a id="ä¸­æ–‡"></a>
+æ‰“å¼€è½¯ä»¶ï¼Œä¼´éšç€ç¾å¦™çš„éŸ³ä¹ï¼Œä¸€ä¸ªæ±‰å ¡å¼€å§‹æ—‹è½¬ï¼ŒåŒæ—¶ä¸‹æ–¹æ˜¾ç¤ºå€’è®¡æ—¶1å°æ—¶ã€‚  
+- **æ— ä»»åŠ¡æ å’Œçª—å£**ï¼šç¨‹åºè¿è¡Œæ—¶ä¸ä¼šæ˜¾ç¤ºä»»åŠ¡æ å›¾æ ‡æˆ–çª—å£è¾¹æ¡†ï¼Œå®Œå…¨æ²‰æµ¸å¼ä½“éªŒã€‚  
+- **å€’è®¡æ—¶ç»“æŸ**ï¼šå€’è®¡æ—¶å½’é›¶æ—¶ï¼Œç¨‹åºå°†è‡ªåŠ¨é€€å‡ºã€‚  
+- **å³é”®èœå•æ“ä½œ**ï¼šå¯ä»¥é€šè¿‡å³é”®èœå•å…³é—­ç¨‹åºï¼Œæˆ–è€…é€šè¿‡ä»»åŠ¡ç®¡ç†å™¨å¼ºåˆ¶ç»“æŸè¿›ç¨‹ã€‚  
+- **åˆ‡æ¢é£Ÿç‰©**ï¼šå³é”®ç‚¹å‡»æ—‹è½¬çš„é£Ÿç‰©ï¼Œå¯ä»¥åˆ‡æ¢åˆ°å…¶ä»–å„ç§ç¾é£Ÿï¼Œäº«å—è¿™æ—‹è½¬çš„ä¸€å°æ—¶å§ï¼
 
-### ÈçºÎ×ÔĞĞ±àÒë
+### å¦‚ä½•è‡ªè¡Œç¼–è¯‘
 
-#### Ç°ÖÃÌõ¼ş
-- **Visual Studio 2022 »ò¸ü¸ß°æ±¾**£ºÈ·±£ÄúÒÑ°²×° Visual Studio 2022 »ò¸ü¸ß°æ±¾¡£
-- **.NET ×ÀÃæ¿ª·¢¹¤¾ß**£ºÔÚ°²×°¹ı³ÌÖĞ£¬È·±£¹´Ñ¡ÁË¡°.NET ×ÀÃæ¿ª·¢¡±¹¤×÷¸ºÔØ¡£
-- **Windows 10 »ò Windows 11 SDK**£ºÍ¬ÑùĞèÒª¹´Ñ¡ Windows 10 »ò Windows 11 SDK¡£
+#### å‰ç½®æ¡ä»¶
+- **Visual Studio 2022 æˆ–æ›´é«˜ç‰ˆæœ¬**ï¼šç¡®ä¿æ‚¨å·²å®‰è£… Visual Studio 2022 æˆ–æ›´é«˜ç‰ˆæœ¬ã€‚
+- **.NET æ¡Œé¢å¼€å‘å·¥å…·**ï¼šåœ¨å®‰è£…è¿‡ç¨‹ä¸­ï¼Œç¡®ä¿å‹¾é€‰äº†â€œ.NET æ¡Œé¢å¼€å‘â€å·¥ä½œè´Ÿè½½ã€‚
+- **Windows 10 æˆ– Windows 11 SDK**ï¼šåŒæ ·éœ€è¦å‹¾é€‰ Windows 10 æˆ– Windows 11 SDKã€‚
 
-#### ±àÒë²½Öè
-1. **°²×° Visual Studio**  
-   Èç¹ûÄúÉĞÎ´°²×° Visual Studio£¬ÇëÇ°Íù [Visual Studio ¹Ù·½ÍøÕ¾](https://visualstudio.microsoft.com/)ÏÂÔØ²¢°²×° Visual Studio 2022 »ò¸ü¸ß°æ±¾¡£ÔÚ°²×°¹ı³ÌÖĞ£¬È·±£¹´Ñ¡ÒÔÏÂÑ¡Ïî£º
-   - **.NET ×ÀÃæ¿ª·¢**  
-     ¸ÃÑ¡ÏîÌá¹©ÁË¿ª·¢×ÀÃæÓ¦ÓÃ³ÌĞòËùĞèµÄ¹¤¾ßºÍ¿â¡£
-   - **Windows 10 »ò Windows 11 SDK**  
-     ¸ÃÑ¡ÏîÌá¹©ÁË¿ª·¢ Windows Ó¦ÓÃ³ÌĞòËùĞèµÄÏµÍ³¿ª·¢°ü¡£
+#### ç¼–è¯‘æ­¥éª¤
+1. **å®‰è£… Visual Studio**  
+   å¦‚æœæ‚¨å°šæœªå®‰è£… Visual Studioï¼Œè¯·å‰å¾€ [Visual Studio å®˜æ–¹ç½‘ç«™](https://visualstudio.microsoft.com/)ä¸‹è½½å¹¶å®‰è£… Visual Studio 2022 æˆ–æ›´é«˜ç‰ˆæœ¬ã€‚åœ¨å®‰è£…è¿‡ç¨‹ä¸­ï¼Œç¡®ä¿å‹¾é€‰ä»¥ä¸‹é€‰é¡¹ï¼š
+   - **.NET æ¡Œé¢å¼€å‘**  
+     è¯¥é€‰é¡¹æä¾›äº†å¼€å‘æ¡Œé¢åº”ç”¨ç¨‹åºæ‰€éœ€çš„å·¥å…·å’Œåº“ã€‚
+   - **Windows 10 æˆ– Windows 11 SDK**  
+     è¯¥é€‰é¡¹æä¾›äº†å¼€å‘ Windows åº”ç”¨ç¨‹åºæ‰€éœ€çš„ç³»ç»Ÿå¼€å‘åŒ…ã€‚
 
-2. **ÅäÖÃ»·¾³±äÁ¿**  
-   ÔÚ°²×° Windows SDK ºó£¬ÄúĞèÒª½« SDK µÄ `bin/°æ±¾ºÅ/` Ä¿Â¼Ìí¼Óµ½ÏµÍ³µÄ»·¾³±äÁ¿ÖĞ¡£¾ßÌå²½ÖèÈçÏÂ£º
-   - ´ò¿ª¡°¿ªÊ¼¡±²Ëµ¥£¬ËÑË÷²¢´ò¿ª¡°»·¾³±äÁ¿¡±ÉèÖÃ¡£
-   - ÔÚ¡°ÏµÍ³ÊôĞÔ¡±´°¿ÚÖĞ£¬Ñ¡Ôñ¡°»·¾³±äÁ¿¡±¡£
-   - ÔÚ¡°ÏµÍ³±äÁ¿¡±²¿·Ö£¬ÕÒµ½²¢Ñ¡Ôñ¡°Path¡±±äÁ¿£¬È»ºóµã»÷¡°±à¼­¡±¡£
-   - µã»÷¡°ĞÂ½¨¡±£¬Ìí¼Ó SDK µÄ `bin/°æ±¾ºÅ/` Ä¿Â¼Â·¾¶¡£ÀıÈç£º
+2. **é…ç½®ç¯å¢ƒå˜é‡**  
+   åœ¨å®‰è£… Windows SDK åï¼Œæ‚¨éœ€è¦å°† SDK çš„ `bin/ç‰ˆæœ¬å·/` ç›®å½•æ·»åŠ åˆ°ç³»ç»Ÿçš„ç¯å¢ƒå˜é‡ä¸­ã€‚å…·ä½“æ­¥éª¤å¦‚ä¸‹ï¼š
+   - æ‰“å¼€â€œå¼€å§‹â€èœå•ï¼Œæœç´¢å¹¶æ‰“å¼€â€œç¯å¢ƒå˜é‡â€è®¾ç½®ã€‚
+   - åœ¨â€œç³»ç»Ÿå±æ€§â€çª—å£ä¸­ï¼Œé€‰æ‹©â€œç¯å¢ƒå˜é‡â€ã€‚
+   - åœ¨â€œç³»ç»Ÿå˜é‡â€éƒ¨åˆ†ï¼Œæ‰¾åˆ°å¹¶é€‰æ‹©â€œPathâ€å˜é‡ï¼Œç„¶åç‚¹å‡»â€œç¼–è¾‘â€ã€‚
+   - ç‚¹å‡»â€œæ–°å»ºâ€ï¼Œæ·»åŠ  SDK çš„ `bin/ç‰ˆæœ¬å·/` ç›®å½•è·¯å¾„ã€‚ä¾‹å¦‚ï¼š
      ```
      D:\Windows Kits\10\bin\10.0.26100.0\x64
      ```
-   - µã»÷¡°È·¶¨¡±±£´æ¸ü¸Ä¡£
+   - ç‚¹å‡»â€œç¡®å®šâ€ä¿å­˜æ›´æ”¹ã€‚
 
-3. **¿ËÂ¡ÏîÄ¿**  
-   ´ò¿ªÖÕ¶Ë»òÃüÁîÌáÊ¾·û£¬ÔËĞĞÒÔÏÂÃüÁî¿ËÂ¡±¾ÏîÄ¿µ½±¾µØ£º
+3. **å…‹éš†é¡¹ç›®**  
+   æ‰“å¼€ç»ˆç«¯æˆ–å‘½ä»¤æç¤ºç¬¦ï¼Œè¿è¡Œä»¥ä¸‹å‘½ä»¤å…‹éš†æœ¬é¡¹ç›®åˆ°æœ¬åœ°ï¼š
    ```bash
    git clone https://github.com/stand114514/SpinFor1Hour.git
    cd SpinFor1Hour
    ```
 
-4. **´ò¿ªÏîÄ¿**  
-   Ê¹ÓÃ Visual Studio ´ò¿ªÏîÄ¿£º
-   - ´ò¿ª Visual Studio¡£
-   - Ñ¡Ôñ¡°´ò¿ª¡±->¡°ÏîÄ¿»ò½â¾ö·½°¸¡±¡£
-   - µ¼º½µ½¿ËÂ¡µÄÏîÄ¿Ä¿Â¼£¬Ñ¡Ôñ½â¾ö·½°¸ÎÄ¼ş£¨`.sln`£©¡£
+4. **æ‰“å¼€é¡¹ç›®**  
+   ä½¿ç”¨ Visual Studio æ‰“å¼€é¡¹ç›®ï¼š
+   - æ‰“å¼€ Visual Studioã€‚
+   - é€‰æ‹©â€œæ‰“å¼€â€->â€œé¡¹ç›®æˆ–è§£å†³æ–¹æ¡ˆâ€ã€‚
+   - å¯¼èˆªåˆ°å…‹éš†çš„é¡¹ç›®ç›®å½•ï¼Œé€‰æ‹©è§£å†³æ–¹æ¡ˆæ–‡ä»¶ï¼ˆ`.sln`ï¼‰ã€‚
 
-5. **±àÒëÏîÄ¿**  
-   ÔÚ Visual Studio ÖĞ£¬µã»÷¡°Éú³É¡±->¡°Éú³É½â¾ö·½°¸¡±£¬¼´¿É±àÒëÏîÄ¿¡£Èç¹ûÒ»ÇĞÕı³££¬Äú½«¿´µ½±àÒë³É¹¦µÄÌáÊ¾¡£
+5. **ç¼–è¯‘é¡¹ç›®**  
+   åœ¨ Visual Studio ä¸­ï¼Œç‚¹å‡»â€œç”Ÿæˆâ€->â€œç”Ÿæˆè§£å†³æ–¹æ¡ˆâ€ï¼Œå³å¯ç¼–è¯‘é¡¹ç›®ã€‚å¦‚æœä¸€åˆ‡æ­£å¸¸ï¼Œæ‚¨å°†çœ‹åˆ°ç¼–è¯‘æˆåŠŸçš„æç¤ºã€‚
 
-6. **ÔËĞĞ³ÌĞò**  
-   µã»÷¡°µ÷ÊÔ¡±->¡°¿ªÊ¼µ÷ÊÔ¡±£¬¼´¿ÉÔËĞĞ³ÌĞò¡£ÄúÒ²¿ÉÒÔÖ±½ÓÔÚÉú³ÉµÄÊä³öÄ¿Â¼ÖĞÕÒµ½¿ÉÖ´ĞĞÎÄ¼ş£¨`Ğı×ª1Ğ¡Ê±.exe`£©£¬Ë«»÷ÔËĞĞ¡£
+6. **è¿è¡Œç¨‹åº**  
+   ç‚¹å‡»â€œè°ƒè¯•â€->â€œå¼€å§‹è°ƒè¯•â€ï¼Œå³å¯è¿è¡Œç¨‹åºã€‚æ‚¨ä¹Ÿå¯ä»¥ç›´æ¥åœ¨ç”Ÿæˆçš„è¾“å‡ºç›®å½•ä¸­æ‰¾åˆ°å¯æ‰§è¡Œæ–‡ä»¶ï¼ˆ`æ—‹è½¬1å°æ—¶.exe`ï¼‰ï¼ŒåŒå‡»è¿è¡Œã€‚
 
-### Ê¹ÓÃËµÃ÷
-- **¼ÇÂ¼ÔË¶¯Êı¾İ**£ºÆô¶¯³ÌĞòºó£¬Äú¿ÉÒÔÊäÈëÔË¶¯Ê±¼ä¡¢¾àÀëµÈĞÅÏ¢£¬³ÌĞò½«×Ô¶¯¼ÆËãÏûºÄµÄ¿¨Â·Àï¡£
-- **²é¿´ÀúÊ·¼ÇÂ¼**£º³ÌĞò»á±£´æÄúµÄÀúÊ·ÔË¶¯Êı¾İ£¬Äú¿ÉÒÔÍ¨¹ı½çÃæ²é¿´ÏêÏ¸¼ÇÂ¼¡£
-- **µ¼³öÊı¾İ**£ºÄú»¹¿ÉÒÔ½«Êı¾İµ¼³öÎª CSV ÎÄ¼ş£¬·½±ã½øÒ»²½·ÖÎö¡£
+### ä½¿ç”¨è¯´æ˜
+- **è®°å½•è¿åŠ¨æ•°æ®**ï¼šå¯åŠ¨ç¨‹åºåï¼Œæ‚¨å¯ä»¥è¾“å…¥è¿åŠ¨æ—¶é—´ã€è·ç¦»ç­‰ä¿¡æ¯ï¼Œç¨‹åºå°†è‡ªåŠ¨è®¡ç®—æ¶ˆè€—çš„å¡è·¯é‡Œã€‚
+- **æŸ¥çœ‹å†å²è®°å½•**ï¼šç¨‹åºä¼šä¿å­˜æ‚¨çš„å†å²è¿åŠ¨æ•°æ®ï¼Œæ‚¨å¯ä»¥é€šè¿‡ç•Œé¢æŸ¥çœ‹è¯¦ç»†è®°å½•ã€‚
+- **å¯¼å‡ºæ•°æ®**ï¼šæ‚¨è¿˜å¯ä»¥å°†æ•°æ®å¯¼å‡ºä¸º CSV æ–‡ä»¶ï¼Œæ–¹ä¾¿è¿›ä¸€æ­¥åˆ†æã€‚
 
-### ×¢ÒâÊÂÏî
-- È·±£ÄúµÄ¼ÆËã»úÒÑ°²×°×îĞÂ°æ±¾µÄ .NET ÔËĞĞÊ±¡£
-- Èç¹ûÔÚ±àÒë¹ı³ÌÖĞÓöµ½ÎÊÌâ£¬Çë¼ì²é Visual Studio µÄ°²×°ÊÇ·ñÍêÕû£¬»òÕß²é¿´ÏîÄ¿ÖĞµÄ `README.md` ÎÄ¼şÖĞµÄ³£¼ûÎÊÌâ½â´ğ²¿·Ö¡£
+### æ³¨æ„äº‹é¡¹
+- ç¡®ä¿æ‚¨çš„è®¡ç®—æœºå·²å®‰è£…æœ€æ–°ç‰ˆæœ¬çš„ .NET è¿è¡Œæ—¶ã€‚
+- å¦‚æœåœ¨ç¼–è¯‘è¿‡ç¨‹ä¸­é‡åˆ°é—®é¢˜ï¼Œè¯·æ£€æŸ¥ Visual Studio çš„å®‰è£…æ˜¯å¦å®Œæ•´ï¼Œæˆ–è€…æŸ¥çœ‹é¡¹ç›®ä¸­çš„ `README.md` æ–‡ä»¶ä¸­çš„å¸¸è§é—®é¢˜è§£ç­”éƒ¨åˆ†ã€‚
 
-### ÁªÏµ·½Ê½
-Èç¹ûÄúÔÚÊ¹ÓÃ¹ı³ÌÖĞÓöµ½ÈÎºÎÎÊÌâ»òÓĞÈÎºÎ½¨Òé£¬ÇëÍ¨¹ı [Issues](https://github.com/stand114514/SpinFor1Hour/issues) Ìá½»·´À¡¡£
+### è”ç³»æ–¹å¼
+å¦‚æœæ‚¨åœ¨ä½¿ç”¨è¿‡ç¨‹ä¸­é‡åˆ°ä»»ä½•é—®é¢˜æˆ–æœ‰ä»»ä½•å»ºè®®ï¼Œè¯·é€šè¿‡ [Issues](https://github.com/stand404/SpinFor1Hour/issues) æäº¤åé¦ˆã€‚
 
 ---
 
 ## English
 <a id="english"></a>
 Launch the software, and a hamburger begins to spin to the sound of delightful music, with a 1-hour countdown timer displayed below.  
-- **No Taskbar or Window**£ºThe program runs without a taskbar icon or window frame for a fully immersive experience.  
-- **Countdown Completion**£ºThe program will automatically exit when the countdown reaches zero.  
-- **Right-Click Menu**£ºYou can close the program via the right-click menu, or terminate it through the Task Manager.  
-- **Switch Foods**£ºRight-click on the spinning food to switch to various other dishes. Enjoy your spinning hour!
+- **No Taskbar or Window**ï¼šThe program runs without a taskbar icon or window frame for a fully immersive experience.  
+- **Countdown Completion**ï¼šThe program will automatically exit when the countdown reaches zero.  
+- **Right-Click Menu**ï¼šYou can close the program via the right-click menu, or terminate it through the Task Manager.  
+- **Switch Foods**ï¼šRight-click on the spinning food to switch to various other dishes. Enjoy your spinning hour!
 
 ### How to Compile
 
@@ -97,11 +97,11 @@ Launch the software, and a hamburger begins to spin to the sound of delightful m
      This option provides the system development packages required for Windows application development.
 
 2. **Configure Environment Variables**  
-   After installing the Windows SDK, you need to add the SDK's `bin/°æ±¾ºÅ/` directory to the system environment variables. Follow these steps:
+   After installing the Windows SDK, you need to add the SDK's `bin/ç‰ˆæœ¬å·/` directory to the system environment variables. Follow these steps:
    - Open the "Start" menu, search for, and open the "Environment Variables" settings.
    - In the "System Properties" window, select "Environment Variables".
    - In the "System variables" section, find and select the "Path" variable, then click "Edit".
-   - Click "New" and add the path to the SDK's `bin/°æ±¾ºÅ/` directory. For example:
+   - Click "New" and add the path to the SDK's `bin/ç‰ˆæœ¬å·/` directory. For example:
      ```
      D:\Windows Kits\10\bin\10.0.26100.0\x64
      ```
@@ -136,4 +136,4 @@ Launch the software, and a hamburger begins to spin to the sound of delightful m
 - If you encounter any issues during compilation, please check if your Visual Studio installation is complete or refer to the "Common Issues" section in the project's `README.md` file.
 
 ### Contact
-If you encounter any problems or have any suggestions while using the program, please submit feedback through [Issues](https://github.com/stand114514/SpinFor1Hour/issues).
+If you encounter any problems or have any suggestions while using the program, please submit feedback through [Issues](https://github.com/stand404/SpinFor1Hour/issues).
